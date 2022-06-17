@@ -1,0 +1,8 @@
+.ant-layout.layout {
+  min-height: 100vh;
+  background: #fff;
+}
+.ant-btn.ant-btn-primary {
+  /* background: linear-gradient(90deg, #74ebd5 0%, #9face6 100%); */
+  border: none;
+}
